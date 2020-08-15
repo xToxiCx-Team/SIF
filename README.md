@@ -17,7 +17,7 @@ OSIF is an accurate facebook account information gathering, all sensitive inform
 $ pkg update upgrade
 $ pkg install git python2
 $ git clone https://github.com/xToxiCx-Team/SIF.git
-$ cd OSIF
+$ cd SIF
 ```
 
 # [ Setup ]
@@ -26,7 +26,7 @@ $ pip2 install -r requirements.txt
 ```
 # [ Running ]
 ```
-$ python2 osif.py
+$ python2 sif.py
 ```
 
 * if you are confused how to use it, please type 'help' to display the help menu
